@@ -33,7 +33,7 @@ Pixel Dice Roller is a minimalist virtual dice roller with a charming pixel art 
 
 ## Screenshots 📸
 
-![Pixel Dice Roller](screenshots/PCR.png)
+![Pixel Dice Roller](assets/image/PCR.png)
 
 ## Technologies Used 🛠️
 
